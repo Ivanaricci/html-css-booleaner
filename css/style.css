@@ -84,3 +84,32 @@ li {
     list-style-type: circle;
     margin: 30px;
  }
+
+
+ /* correlati */
+ h3{
+    margin-top: 25px;
+    color: grey;
+ }
+
+ .title-img{
+    color: white;
+    padding: 20px;
+ }
+
+ .img-pc{
+    background-image: url(../img/monitor.jpg);
+    background-position: center;
+    height: 200px;
+    width: 270px;
+    margin-top: 15px;
+ }
+
+ .img-monitor{
+    background-image: url(../img/graph.jpg);
+    background-position: center;
+    height: 200px;
+    width: 270px;
+    margin-top: 15px;
+ }
+ }
