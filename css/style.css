@@ -9,7 +9,7 @@
     background-color:rgb(62,151,251);
     height: 100px;
     background-image: url(../img/pattern.png);
-    background-size: 42%;
+    background-size: 390px;
 }
 
 .logo{
@@ -36,4 +36,7 @@ h1{
     font-size: 13px;
 }
 
-
+/* le foto */
+.le-foto{
+    margin-top: 20px;
+}
