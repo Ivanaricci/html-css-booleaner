@@ -54,3 +54,32 @@ p{
 .yellow{
     background-color: yellow;
 }
+
+
+/* tabella */
+table{
+    margin-top: 20px;
+}
+
+th{
+    text-align: left;
+    color: white;
+    background-color:rgb(0, 159, 219) ;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.cellax2{
+    width: 50%;
+}
+
+.color-azzurro{
+    background-color:rgb(164, 227, 239) ;
+}
+
+
+li {
+    list-style-type: circle;
+ }
