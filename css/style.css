@@ -40,3 +40,17 @@ h1{
 .le-foto{
     margin-top: 20px;
 }
+
+.description-foto{
+    font-size: 12px;
+}
+
+
+/* parte centrale */
+p{
+    margin-top: 20px;
+}
+
+.yellow{
+    background-color: yellow;
+}
